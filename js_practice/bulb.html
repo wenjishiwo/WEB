@@ -1,0 +1,24 @@
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>bulb</title>
+</head>
+<body>
+<script>
+function changeimage()
+{
+	a=document.getElementById("dwj")
+	if(a.src.match("bon"))
+	{
+		a.src="/images/pic_bulboff.gif";
+	}
+	else
+	{
+		a.src="/images/pic_bulbon.gif";
+	}
+}
+</script>
+<img id="dwj" onclick ="changeimage()"//注意括号 src="/images/pic_bulboff.gif" width="100" height="180">
+</body>
+</html>
