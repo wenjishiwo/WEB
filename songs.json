@@ -1,0 +1,22 @@
+{
+  "meet1": {
+    "songUrl": "http://music.163.com/song/media/outer/url?id=287035.mp3",
+    "title": "遇见1",
+    "artist": "孙燕姿1"
+  },
+  "meet2": {
+    "songUrl": "http://music.163.com/song/media/outer/url?id=287035.mp3",
+    "title": "遇见2",
+    "artist": "孙燕姿3"
+  },
+  "meet3": {
+    "songUrl": "http://music.163.com/song/media/outer/url?id=287035.mp3",
+    "title": "遇见3",
+    "artist": "孙燕姿3"
+  },
+  "meet4": {
+    "songUrl": "http://music.163.com/song/media/outer/url?id=287035.mp3",
+    "title": "遇见4",
+    "artist": "孙燕姿4"
+  }
+}
